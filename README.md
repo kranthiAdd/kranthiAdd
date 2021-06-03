@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kranthiAdd
+- 👋 Hi, I’m @kranthiAddanki
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning Sentiment Analaysis tools
 -
