@@ -16,7 +16,7 @@ print("\n".join(textwrap.wrap(sorted_sentences[0][1], 70)))
 #print(scored_sentences)
 print (sorted_sentences)
 
-# splittinf paragraph into sentences and giving afinn score to eah of the sentences.
+# splitting paragraph into sentences and giving afinn score to eah of the sentences.
 
 from afinn import Afinn
 
