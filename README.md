@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kranthiAddanki
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Sentiment Analaysis tools
+- 🌱 I’m currently working on Sentiment Analaysis tools
 -
 - 📫 How to reach me ...kranthi.addanki@my.jcu.edu.au
 
