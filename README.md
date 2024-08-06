@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently working on Sentiment Analaysis tools
 -
-- 📫 How to reach me ...kranthi.addanki@my.jcu.edu.au
+- 📫 How to reach me ...kranthi.addanki@jcu.edu.au
 
 <!---
 kranthiAdd/kranthiAdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
