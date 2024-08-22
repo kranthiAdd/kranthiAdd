@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kranthi Addanki
 - 👀 I’m interested in Learning Science, Artificial Intelligence, Digital Twins
 - 🌱Currently working on Sentiment Analaysis tools
--
 - 📫 How to reach me : email kranthi.addanki@jcu.edu.au
 
 <!---
